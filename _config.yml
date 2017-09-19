@@ -1,1 +1,9 @@
 theme: jekyll-theme-slate
+title: CPGE
+permalink: /articles/:title
+
+defaults:
+  - scope:
+      path: "assets/pdf"
+    values:
+      annal: true
