@@ -7,3 +7,5 @@ defaults:
       path: "assets/pdf"
     values:
       annal: true
+sass:
+  sass_dir: _sass

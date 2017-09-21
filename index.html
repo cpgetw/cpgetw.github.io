@@ -1,0 +1,22 @@
+---
+layout: default
+premalink: /
+title: Home
+---
+
+<center><h2> About </h2></center>
+CPGE全名為Classes Préparatoires aux Grandes Ecoles，譯為高等學院預備班。
+
+台灣與法國自2005年起為促進交流，簽訂辦法讓至多10名台灣高三應屆畢業生可以赴法就讀預備班。
+
+本網站是由通過此計畫赴法就讀的人共同架立與維護，旨在提通相關資訊給有意了解透過此館道赴法留學的學生們。
+
+<br />
+<br />
+<center><h2> 最新文章 </h2></center>
+{% for post in site.posts %}
+<h4><a href="{{ post.url }}"> {{ post.title }} </a></h4>
+  
+     {{ post.excerpt }}
+{% endfor %}
+
