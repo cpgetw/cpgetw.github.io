@@ -1,9 +1,79 @@
 [
   {
     'name':'姚驊庭',
-    'highschoole':'CK',
-    'prepa':'LLG',
-    'grandeecole':'X',
+    'highschool':'建國中學',
+    'prepa':'Louis Le Grand',
+    'grandeecole':'Ecole Polytechnique',
     'email':'hua-ting.yao (at) polytechnique (dot) edu'
+  },
+  {
+    'name':'黃伯遠',
+    'highschool':'台中一中',
+    'prepa':'Louis Le Grand',
+    'grandeecole':'Ecole Polytechnique',
+    'email':'boyuanhuang1 (at) gmail (dot) com'
+  },
+  {
+    'name':'呂瑞婷',
+    'highschool':'北一女中',
+    'prepa':'Lycée du Parc',
+    'grandeecole':'ENS Lyon',
+    'email':'juiting.lu (at) gmail (dot) com'
+  },
+  {
+    'name':'謝宇觀',
+    'highschool':'建國中學',
+    'prepa':'Lycée du Parc',
+    'grandeecole':'ENS Paris',
+    'email':'sjungle305 (at) gmail (dot) com'
+  },
+  {
+    'name':'于上鈞',
+    'highschool':'建國中學',
+    'prepa':'Janson de Sailly',
+    'grandeecole':'ENS Lyon',
+    'email':'puch40316 (at) gmail (dot) com'
+  },
+  {
+    'name':'蔡宗軒',
+    'highschool':'建國中學',
+    'prepa':'Janson de Sailly',
+    'grandeecole':'ENS Rennes',
+    'email':'tsai71517 (at) gmail (dot) com'
+  },
+  {
+    'name':'林岳',
+    'highschool':'建國中學',
+    'prepa':'Louis Le Grand',
+    'grandeecole':'Ecole Polytechnique',
+    'email':'victorlin06198 (at) gmail (dot) com'
+  },
+  {
+    'name':'邱子懿',
+    'highschool':'師大附中',
+    'prepa':'Louis Le Grand',
+    'grandeecole':'Ecole Polytechnique',
+    'email':'jimjimchiu17 (at) gmail (dot) com'
+  },
+  {
+    'name':'吳睿軒',
+    'highschool':'建國中學',
+    'prepa':'Janson de Sailly',
+    'grandeecole':'ENS Paris',
+    'email':'wujuihsuan2014 (at) gmail (dot) com'
+  },
+  {
+    'name':'許濤',
+    'highschool':'建國中學',
+    'prepa':'Janson de Sailly',
+    'grandeecole':'',
+    'email':'h851204 (at) gmail (dot) com'
+  },
+  {
+    'name':'陳芃維',
+    'highschool':'建國中學',
+    'prepa':'Louis Le Grand',
+    'grandeecole':'',
+    'email':'wayne567tw (at) gmail (dot) com'
   }
 ]
