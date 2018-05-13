@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Q&A'
-premalink: /questions
+permalink: /questions/
 ---
 
 總論

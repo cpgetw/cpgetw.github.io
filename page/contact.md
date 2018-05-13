@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 聯絡我們
-permalink: /contact
+permalink: /contact/
 ---
 
 {% for contact in site.data.contacts %}

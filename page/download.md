@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 檔案下載
-permalink: /download
+permalink: /download/
 ---
 
 ## 歷屆考題
