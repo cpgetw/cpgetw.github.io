@@ -3,13 +3,11 @@ title: CPGE
 permalink: /articles/:title
 
 defaults:
-  - 
-     scope:
+  -  scope:
       path: "assets/pdf"
     values:
      annal: true
-  - 
-     scope:
+  -  scope:
       path: "assets/correction"
     values:
    correct: true
