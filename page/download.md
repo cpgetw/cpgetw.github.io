@@ -12,7 +12,7 @@ permalink: /download/
 {% endfor %}
 
 ## Brief Correction
-{% assign corr = site.static_files | where: "correction", true %}
+{% assign corr = site.static_files | where: "correct", true %}
 {% for c in corr %}
   [{{ c.basename }}]({{c.path}})
 {% endfor %}
