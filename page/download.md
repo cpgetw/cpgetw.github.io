@@ -12,7 +12,7 @@ permalink: /download/
 {% endfor %}
 
 ## Brief Correction
-{% assign annals = site.static_files | where: "annal_c", true %}
-{% for annal in annals %}
+{% assign cool = site.static_files | where: "_c", true %}
+{% for annal in cool %}
   [{{ annal.basename }}]({{annal.path}})
 {% endfor %}
