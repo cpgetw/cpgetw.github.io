@@ -6,13 +6,9 @@ permalink: /download/
 
 ## 歷屆考題
 [全部下載](/assets/cpge_annals.zip)
-{% assign annals = site.static_files | where_exp: "2017" %}
+{% assign annals = site.static_files | where: "annal", true %}
 {% for annal in annals %}
   [{{ annal.basename }}]({{annal.path}})
 {% endfor %}
 
 ## Brief Correction
-{% assign cool = site.static_files | where: "annal", true %}
-{% for c in cool %}
-  [{{ c.basename }}]({{c.path}})
-{% endfor %}
