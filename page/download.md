@@ -10,3 +10,9 @@ permalink: /download/
 {% for annal in annals %}
   [{{ annal.basename }}]({{annal.path}})
 {% endfor %}
+
+## Brief Correction
+{% assign annals = site.static_files | where: "annal_c", true %}
+{% for annal in annals %}
+  [{{ annal.basename }}]({{annal.path}})
+{% endfor %}
