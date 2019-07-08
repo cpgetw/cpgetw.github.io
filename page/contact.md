@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 {% for contact in site.data.contacts %}
-  * {{contact.name}} ({{contact.highschool}}/{{contact.prepa}}/{{contact.grandeecole}})
+  * {{contact.name}} ({{contact.highschool}}//{{contact.prepa}}//{{contact.grandeecole}})
 
     {{contact.email}}
 {% endfor %}
