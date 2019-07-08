@@ -9,5 +9,3 @@ defaults:
       annal: true
 sass:
   sass_dir: _sass
-
-mathjax: true
