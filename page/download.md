@@ -6,7 +6,7 @@ permalink: /download/
 
 ## 歷屆考題
 [全部下載](/assets/cpge_annals.zip)
-{% assign annals = site.static_files | where: "annal", true %}
+{% assign annals = site.static_files | where: "2017", true %}
 {% for annal in annals %}
   [{{ annal.basename }}]({{annal.path}})
 {% endfor %}
