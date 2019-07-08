@@ -1,0 +1,49 @@
+# try
+
+this is a first try to learn how to use markdown.
+
+> cool.
+> cool so this is a blockquote.
+
+I want to *italic* and **bold** and ___both___
+
+C:\Users\Dublinnegansses\AppData\Local\Pandoc\pandoc.exe
+
+
+- hi there
+- this is easy to use since no need to enter commands like latex.
+
+
+$\sin x$
+
+$\frac{1}{n}$
+
+eh...
+
+
+$\frac{1}{\pi}$, so...
+
+\[\frac{1}{n}\]
+
+
+rrrrrrrrr
+
+\[
+\begin{split}
+\int_{-\infty}^{+\infty}\exp(-\frac{t^2}{2})dt & = \sqrt{\gamma} \\
+& = \cup A_n \\
+& = \text{whatever}
+\end{split}
+\]
+rrrrrrrrrfff
+
+\[
+\int_{-\infty}^{+\infty}\exp(-\frac{t^2}{2})dt
+\]
+
+
+but does this really work???
+I hope so.
+1. how are you?
+2. I'm fine thank you.
+3. 1111ddd
