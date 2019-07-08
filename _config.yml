@@ -7,8 +7,8 @@ defaults:
       path: "assets/pdf"
     values:
       annal: true
-  - 
-    scope:
+      
+  - scope:
       path: "assets/correction"
     values:
     correct: true
