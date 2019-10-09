@@ -4,12 +4,16 @@ permalink: /articles/:title
 
 defaults:
   - scope:
-      path: "assets/pdf"
+      path: "assets/annal"
     values:
       annal: true  
   - scope:
       path: "assets/correction"
     values:
-     correct: true    
+      correct: true    
+  - scope:
+      path: "assets/manual"
+    values:
+      manual: true
 sass:
   sass_dir: _sass
