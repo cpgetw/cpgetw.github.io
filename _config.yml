@@ -6,6 +6,10 @@ defaults:
   - scope:
       path: "assets/pdf"
     values:
-      annal: true
+      annal: true  
+  - scope:
+      path: "assets/correction"
+    values:
+     correct: true    
 sass:
   sass_dir: _sass
