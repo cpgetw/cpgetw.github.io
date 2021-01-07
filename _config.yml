@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 title: CPGE
-permalink: /articles/:title
+permalink: /articles/:title  #定義的post 的 url
 
 defaults:
   - scope:

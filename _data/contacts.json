@@ -75,5 +75,19 @@
     'prepa':'Louis Le Grand',
     'grandeecole':'École Polytechnique',
     'email':'wayne567tw (at) gmail (dot) com'
+  },
+  {
+    'name':'吳承諺',
+    'highschool':'台中一中',
+    'prepa':'Louis Le Grand',
+    'grandeecole' :'École Polytechnique',
+    'email':'abc712217 (at) gmail (dot) com'
+  },
+  {
+    'name':,
+    'highschool':,
+    'prepa':, 
+    'grandeecole':,
+    'email':
   }
 ]
