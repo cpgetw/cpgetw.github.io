@@ -12,14 +12,14 @@ permalink: /download/
 
 ## 歷屆考題
 [全部下載](/assets/cpge_annals.zip)
-{% assign annals = site.static_files | where: "annal", true %}
+{% assign annals = site.static_files | where: "annal", true | reverse %}
 {% for annal in annals %}
-  [{{ annal.basename }}]({{annal.path}})
+  <span class="col-md-4">[{{ annal.basename }}]({{annal.path}})</span>
 {% endfor %}
 
 ## Brief Correction
-{% assign corr = site.static_files | where: "correct", true %}
+{% assign corr = site.static_files | where: "correct", true | reverse %}
 {% for c in corr %}
-  [{{ c.basename }}]({{c.path}})
+  <span class="col-md-4">[{{ c.basename }}]({{c.path}})</span>
 {% endfor %}
 
