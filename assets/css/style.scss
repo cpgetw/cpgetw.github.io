@@ -2,3 +2,12 @@
 ---
 
 @import "jekyll-theme-slate";
+
+footer {
+  color: white;
+  height: 5px;
+}
+
+#main_content_wrap{
+  min-height: 95vh;
+}
